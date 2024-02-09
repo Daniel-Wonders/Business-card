@@ -1,0 +1,49 @@
+body{
+
+    margin:20px;
+    color:#000000;
+    font-family: Geneva, Tahoma, sans-serif
+}
+
+.imagen{
+
+    width: 150px;
+    border-radius: 16px;
+
+}
+
+.card{
+    padding: 20px 40px;
+    display: flex;
+    justify-content:space-around;
+    width: 400px;
+    margin: 0px auto;
+    border-bottom: 8px solid rgb(16, 147, 255);
+    background-color: rgb(155, 195, 255);
+    border-radius: 16px;
+
+}
+
+.txtbox{
+    margin-left: 20px;
+    text-align: center;
+    
+}
+
+.borderUsed{
+    border:3px dotted rgb(0, 0, 255);
+
+}
+
+h1{
+    font-size: 30;
+}
+p{
+    font-size: 20;
+}
+h4{
+    font-size: 18;
+}
+a{
+    font-size: larger;
+}
